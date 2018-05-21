@@ -7,3 +7,4 @@ Angular Tutorial Tour of Heroes
 * cd heroesApp
 * ng serve --open
 * ng generate component heroes
+* ng generate component hero-detail
