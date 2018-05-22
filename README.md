@@ -14,3 +14,5 @@ Angular Tutorial Tour of Heroes
 * ng generate service message
 * ng generate module app-routing --flat --module=app
 * ng generate component dashboard
+* npm install angular-in-memory-web-api --save
+* ng generate component hero-search
