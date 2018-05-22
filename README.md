@@ -12,3 +12,5 @@ Angular Tutorial Tour of Heroes
 * ng generate service hero --module=app
 * ng generate component messages
 * ng generate service message
+* ng generate module app-routing --flat --module=app
+* ng generate component dashboard
